@@ -1,4 +1,4 @@
-package gotype
+package typevalidator
 
 import (
 	"testing"

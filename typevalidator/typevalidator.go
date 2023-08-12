@@ -1,4 +1,4 @@
-package gotype
+package typevalidator
 
 import "fmt"
 
@@ -6,7 +6,7 @@ import "fmt"
 /*
 	Example:
 		var value bool = true
-		fmt.Println(GetTypeOf(value))
+		fmt.Println(typevalidator.GetTypeOf(value))
 		Output: "bool"
 */
 func GetTypeOf(value interface{}) string {
