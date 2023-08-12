@@ -1,4 +1,4 @@
-module github.com/mauricioromagnollo/go-type
+module github.com/mauricioromagnollo/gotype
 
 go 1.20
 
